@@ -10,3 +10,4 @@ var typed = new Typed(".typed-words", {
     cursorChar: "|",
     attr: null,
   });
+

@@ -8,3 +8,6 @@ This repository holds custom CSS and Javascript for a Webflow website.
 ### JavaScript
 - settings for the toolip for tippy.js
 - settings for the typing effect from typed.js
+
+### jsDelivr
+- CDN to serve the JavaScript files to Webflow
